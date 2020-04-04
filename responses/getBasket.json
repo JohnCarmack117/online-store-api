@@ -6,7 +6,8 @@
       "id_product": 0,
       "product_name": "Processor",
       "price": 33000,
-      "quantity": 1
+      "quantity": 1,
+      "img": "https://cs8.pikabu.ru/post_img/big/2017/12/25/5/1514188160141511997.jpg" 
     },
     {
       "id_product": 1,
